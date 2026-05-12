@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-This repository contains the complete workflow for a Final Data Science Project developed as part of the Data Science Bootcamp. The project integrates technical, analytical, and strategic skills acquired throughout the program to solve realistic business problems using data-driven approaches. :contentReference[oaicite:1]{index=1}
+This repository contains the complete workflow for a Final Data Science Project developed as part of the Data Science Bootcamp. The project integrates technical, analytical, and strategic skills acquired throughout the program to solve realistic business problems using data-driven approaches.
 
 The project follows a professional structure commonly used in real-world Data Science consulting and machine learning development environments.
 
@@ -17,7 +17,7 @@ The primary goals of this project are:
 - Develop reproducible and structured analytical workflows.
 - Communicate findings clearly to both technical and non-technical audiences.
 - Build predictive models and evaluate their business impact.
-- Demonstrate storytelling, analytical thinking, and technical implementation skills. :contentReference[oaicite:2]{index=2}
+- Demonstrate storytelling, analytical thinking, and technical implementation skills.
 
 ---
 
